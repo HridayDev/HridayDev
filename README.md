@@ -22,7 +22,7 @@
 
 ---
 
-## My Techstack: [HridayDev/Techstack](https://github.com/HridayDev/Techstack/tree/main)
+# My Techstack: [Jack++](https://github.com/HridayDev/Techstack/tree/main)
 
 ---
 
