@@ -8,8 +8,8 @@
 - [FogDB](https://github.com/HridayDev/FogDb) - A DOCUMENT BASED DB.
 - [TYPER](https://github.com/HridayDev/TYPER) - A Notead Rip-Off
 - [Youtube](https://github.com/HridayDev/Youtube) - me makin' Youtube videos
-- [Quizzer](https://github.com/HridayDev/Quizzer) - A quizz site.
 - [GuildedAPI](https://github.com/HridayDev/GuildedAPI) - Me tryin' the Guilded.gg api
+- [Quizzer](https://github.com/HridayDev/Quizzer) - A quizz site.
 
 ---
 
