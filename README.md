@@ -17,6 +17,8 @@
 - Github
 - Docker
 
+## ⚙️ My Stack: [Jack++](https://gihub.com/HridayDev/Techstack)  
+
 <br/>
 <div>
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
@@ -34,8 +36,6 @@
 
 <br/>
 
-
-## My Stack: [Jack++](https://gihub.com/HridayDev/Techstack) ⚙️ 
 
 <br/>
 <p align="center">
