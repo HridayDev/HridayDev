@@ -1,5 +1,5 @@
 # Hi there 👋
-### 🎓 I'm A 13 Year Old Java Programmer, Minecrafter, Computer Enthusiast And A Creator!!
+## 🎓 I'm A 13 Year Old Java Programmer, Minecrafter, Computer Enthusiast And A Creator!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Reactjs
@@ -8,16 +8,28 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I'm a trilingual ( English, Hindi, Punjabi)
 
-### Skills:
-- Java
-- Bash/Batch, Python
-- HTML, CSS, jQuery & Bootstrap
-- mySQL
-- Git
-- Github
-- Docker
+## Skills:
 
-## ⚙️ My Stack: [Jack++](https://gihub.com/HridayDev/Techstack)  
+#### Expert: 
+- Java
+
+#### Intermediate: 
+- Linux
+- mySQL
+- Github
+- HTML/JSP
+- Bootstrap
+- CSS
+- jQuery
+
+#### Begineer: 
+- Git
+- Docker
+- Python
+- VMs
+- Bash/Batch
+
+## ⚙️ My Stack: [Jack++](https://github.com/HridayDev/Techstack)  
 
 <br/>
 <div>
