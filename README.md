@@ -37,7 +37,7 @@
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 <img align="left" alt="holisitc_developer | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> - hridaykh1234@gmail.com
 
-[Top 5 Languages](https://github-readme-stats.vercel.app/api/top-langs?username=HridayDev&show_icons=true&locale=en)
+![Top 5 Languages](https://github-readme-stats.vercel.app/api/top-langs?username=HridayDev&show_icons=true&locale=en)|
 	    
 [![HridayDev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HridayDev&bg_color=000000&color=ffffff&line=0000ff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
