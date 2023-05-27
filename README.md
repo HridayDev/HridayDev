@@ -12,22 +12,22 @@
 
 #### Expert: 
 - Java
+- Python
+- HTML/JSP
 
 #### Intermediate: 
 - Linux
-- mySQL
+- Git
 - Github
-- HTML/JSP
-- Bootstrap
+- MySQL
 - CSS
-- jQuery
+- Bootstrap
 
 #### Begineer: 
-- Git
 - Docker
-- Python
 - VMs
 - Bash/Batch
+- jQuery
 
 ## ⚙️ My Stack: [Jack++](https://github.com/HridayDev/Techstack)
 
