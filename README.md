@@ -48,3 +48,4 @@
 [youtube]: https://www.youtube.com/@HridayDev/
 [github]: https://www.github.com/HridayDev/
 [gmail]: mailto:hridaykh1234@gmail.com
+[portfolio]: (https://github.com/HridayDev?tab=repositories)
