@@ -13,9 +13,11 @@
 #### Expert: 
 - Java
 - Python
-- HTML/JSP
+- HTML
+- JSP
 
 #### Intermediate: 
+- PHP
 - Linux
 - Git
 - Github
