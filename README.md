@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🎓 I'm A 13 Year Old Java Programmer, Minecrafter, Computer Enthusiast And A Creator!!
 - ✍ You can find my projects [here](https://github.com/HridayDev?tab=repositories)
-- 🔭 I’m currently working on my ***Custom CPU*** called `The HK8` [Here](https://github.com/HridayDev/HK8).
+- 🔭 I’m currently working on a ***LOT*** .
 - 🌱 I’m currently attempting to do frontend withput pain!
 - 👯 I’m looking to collaborate on any project, even open source
 - 💬 Ask me about... Backend
