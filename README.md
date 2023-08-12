@@ -15,6 +15,7 @@
 - Python
 - HTML
 - JSP
+- Bootstrap
 
 #### Intermediate: 
 - PHP
@@ -23,7 +24,6 @@
 - Github
 - MySQL
 - CSS
-- Bootstrap
 
 #### Begineer: 
 - Docker
